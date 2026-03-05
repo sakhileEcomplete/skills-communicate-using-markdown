@@ -3,7 +3,8 @@
 ### Details
 
 
-![Cute Cat](https://images.pexels.com/photos/1784289/pexels-photo-1784289.jpeg?cs=srgb&dl=adorable-animal-baby-1784289.jpg&fm=jpg)
+<img alt="Cute Cat" src="https://images.pexels.com/photos/1784289/pexels-photo-1784289.jpeg?cs=srgb&dl=adorable-animal-baby-1784289.jpg&fm=jpg" width="100" align="right">
+
 
 
 ```javascript
